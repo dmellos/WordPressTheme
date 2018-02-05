@@ -1,0 +1,42 @@
+
+.foot {
+  list-style-type: none;
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+.slide1{
+	background-image: url('slide1.jpg');
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.slide2{
+	background-image: url('slide2.jpg');
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.slide3{
+	background-image: url('slide3.jpg');
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.carousel-caption h1{
+	font-size: 5.4em;
+	font-family: 'Pacifico', cursive;
+	padding-bottom: .4em;
+}
+.carousel-caption p{
+	font-size: 2em;
+}
